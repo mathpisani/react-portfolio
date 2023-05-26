@@ -9,5 +9,5 @@
 ## 👨🏼‍💻 Tecnologias
 Projeto desenvolvido utilizando as seguintes tecnologias JavaScript, React, Next.js, Git e GitHub
 
-## Layout
+## 🏷️ Layout
 Você pode visualizar o layout do projeto através [desse link](https://mathpisani.github.io/react-portfolio)
