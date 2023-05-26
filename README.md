@@ -1,6 +1,6 @@
 <p aling="center">
-<img src=".public/page-white.png" alt="Preview pagina tema claro" width="100%">
-<img src=".public/page-black.png" alt="Preview pagina tema claro" width="100%">
+<img src=".github/page-white.png" alt="Preview pagina tema claro" width="100%">
+<img src=".github/page-black.png" alt="Preview pagina tema claro" width="100%">
 </p>
 
 ## 🖥️ Projeto
